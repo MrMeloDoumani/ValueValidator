@@ -66,7 +66,7 @@ npm start
    - **Michael Porter**: Five Forces & Barriers to Entry
    - **Warren Buffett**: Value Investing & Economic Moats
    - **Jim Collins**: Good to Great Flywheel Effect
-3. Receive a comprehensive analysis with scores and insights
+3. Receive a comprehensive analysis with more scores and insights
 4. Get a final Metron Value Score and verdict
 5. Download your strategic assessment report
 
