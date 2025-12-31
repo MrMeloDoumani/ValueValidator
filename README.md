@@ -11,10 +11,11 @@
 
 2. **Set up environment variables:**
    - Copy `.env.example` to `.env`
-   - Add your OpenAI API key:
+   - Add your Google AI API key:
      ```env
-     OPENAI_API_KEY=sk-your-key-here
+     GOOGLE_AI_API_KEY=your-google-ai-api-key-here
      ```
+   - Get your API key from [Google AI Studio](https://aistudio.google.com/app/apikey)
 
 3. **Run development server:**
    ```bash
@@ -34,7 +35,7 @@ npm start
 
 1. Push your code to GitHub
 2. Import project in Vercel
-3. Add `OPENAI_API_KEY` environment variable in Vercel dashboard
+3. Add `GOOGLE_AI_API_KEY` environment variable in Vercel dashboard
 4. Deploy
 
 ## 🔧 Tech Stack
@@ -42,7 +43,7 @@ npm start
 - Next.js 15.1.9+ (App Router)
 - TypeScript
 - Tailwind CSS
-- OpenAI API (GPT-4 Turbo)
+- Google Gemini API (Gemini 1.5 Pro)
 
 ## 📝 Features
 
@@ -55,7 +56,7 @@ npm start
 ## ⚠️ Requirements
 
 - Node.js 18+
-- OpenAI API key
+- Google AI API key (get it free from [Google AI Studio](https://aistudio.google.com/app/apikey))
 - Next.js 15.1.9+ (required for Vercel deployment)
 
 ## 🎯 How It Works
